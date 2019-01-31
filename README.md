@@ -1,4 +1,10 @@
 # SISKA
 Sistem Informasi Keuangan
 
-Dibuat dengan PHP, MySQL , dan Framework PHP Laravel
+D**INFORMASI**
+--------------------
+Disini saya merancang dan membuat terlebih dahulu *login page* atau halaman masuk untuk SISKA yang akan saya buat.
+
+**PRATINJAU**
+-------------------
+![pratinjau](https://i.imgur.com/cGhMfuk.png "Pratinjau Halaman Login SISKA")

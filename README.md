@@ -7,4 +7,4 @@ Disini saya merancang dan membuat terlebih dahulu *login page* atau halaman masu
 
 **PRATINJAU**
 -------------------
-[Imgur](https://i.imgur.com/iceZC4a.gifv)
+[Imgur](https://i.imgur.com/iceZC4a.gif)

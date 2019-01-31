@@ -7,4 +7,4 @@ Disini saya merancang dan membuat terlebih dahulu *login page* atau halaman masu
 
 **PRATINJAU**
 -------------------
-![pratinjau](https://i.imgur.com/cGhMfuk.png "Pratinjau Halaman Login SISKA")
+[Imgur](https://i.imgur.com/iceZC4a.gifv)
